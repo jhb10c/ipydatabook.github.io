@@ -1,3 +1,7 @@
+This is the data 8 textbook adapted for MATH 1114 at UNG. The textbook site can be found here: https://ipydatabook.github.io//chapters/intro.
+
+
+
 # The Data 8 Jekyll textbook
 
 This repository holds a Jekyll-based version of the Data 8 textbook.
